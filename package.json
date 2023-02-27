@@ -1,0 +1,24 @@
+{
+  "name": "sample-beta-prettier-config",
+  "version": "1.0.0",
+  "description": "Sample Prettier Configuration",
+  "main": "index.json",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ShreyDhyani/sample-beta-prettier-config.git"
+  },
+  "keywords": [
+    "Prettier",
+    "Betalectic",
+    "Sample"
+  ],
+  "author": "Shrey Dhyani",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ShreyDhyani/sample-beta-prettier-config/issues"
+  },
+  "homepage": "https://github.com/ShreyDhyani/sample-beta-prettier-config#readme"
+}
